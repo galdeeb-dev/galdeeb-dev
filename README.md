@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @galdeeb-dev
-- 👀 I’m interested in C++ and Unreal Engine
-- 🌱 I’m currently learning C++ and Unreal Engine
+- 👀 I’m interested in Unity and C#
+- 🌱 I’m currently learning Unity and C# on Unity Learn
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: galdeeb@icloud.com
 
