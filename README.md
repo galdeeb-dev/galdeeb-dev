@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @galdeeb-dev
-- 👀 I’m interested in Unity and C#
-- 🌱 I’m currently learning Unity and C# on Unity Learn
+- 👀 I’m interested in Game Development with Unity
+- 🌱 I’m currently learning C# on Unity Learn
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: galdeeb@icloud.com
 
